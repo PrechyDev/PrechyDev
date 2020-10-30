@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**PrechyDev/PrechyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
+
+
 
 
 
@@ -13,4 +13,3 @@
 - 📫 How to reach me: +22348143463800 or preciousrobinsonokafor
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I loveeee books
--->

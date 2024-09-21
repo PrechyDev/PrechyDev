@@ -19,13 +19,13 @@ I am a **Data Engineer**, **STEM Educator** and **Technical Writer**, passionate
 
 ## 🛠️ Tools & Technologies
 
-### Programming & Scripting
+#### Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
-### Data Engineering & Visualization
+#### Data Engineering & Visualization
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=flat)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&logoColor=white&style=flat)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1F1F1F?logo=python&logoColor=white&style=flat)
@@ -36,14 +36,14 @@ I am a **Data Engineer**, **STEM Educator** and **Technical Writer**, passionate
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
 
 
-### Cloud, DevOps and CI/CD
+#### Cloud, DevOps and CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
 
-### Web Development
+#### Web Development
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
@@ -64,7 +64,6 @@ An ETL pipeline that fetches weather data using OpenWeatherMap API, and stores i
 
 
 ## GitHub Streaks and Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrechyDev&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrechyDev)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrechyDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,18 +1,18 @@
 # Welcome to My GitHub Portfolio 👋. I'm Precious Okafor :woman_technologist:
 
-I am a **Data Engineer**, **STEM Educator** and **Technical Writer**, passionate about harnessing the power of data to drive insights and innovation, and advocating for digital literacy in Africa.
+I am a **AI-native Backend and Data Engineer**, **STEM Educator** and **Technical Writer**, passionate about building working systems to support business goals and solve problems, harnessing the power of data to drive insights and innovation, and advocating for digital literacy in Africa.
  
 - :books: I'm currently studying Computer Science and Economics at Obafemi Awolowo University, Ife.
 
-- :telescope: A Data Engineering intern with Data Epic where I build robust ETL pipelines to hone my skills.
+- :telescope: Currently freelancing, building AI workflows and tools for business and building personal projects.
 
 - :star: I'm an advocate for digital literacy, particularly for women in Africa, and serve as a STEM Educator, empowering the next generation with essential tech skills.
 
-- :seedling: I’m exploring Technical Content Writing, sharing knowledge about data technologies, blockchain, and digital literacy.
+- :seedling: I’m exploring Technical Content Writing, sharing knowledge about data technologies, AI, digital literacy, and how technology can be used by businesses.
   
-- :mag: My research interests include exploring how databases can be built and managed with blockchain technology, focusing on making these solutions usable for businesses and Web2 applications.
+- :mag: My research interests include exploring how databases can be built and managed with blockchain technology, focusing on making these solutions usable for businesses and Web2 applications, and how AI can be used to optimize processes in businesses
 
-- :zap: In my free time, I volunteer as a computer science tutor, engage in problem-solving challenges on platforms like LeetCode, contribute to open-source projects, and read up on the latest tech trends and research.
+- :zap: In my free time, I volunteer as a computer science tutor, engage in problem-solving challenges on platforms like LeetCode and CodeSignal, contribute to open-source projects, and read up on the latest tech trends and research.
 
 - :mailbox: Feel free to reach out to me: [Twitter](https://x.com/prechy_okafor) || [LinkedIn](https://linkedin.com/in/prechy)
 
